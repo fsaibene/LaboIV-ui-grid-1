@@ -1,5 +1,6 @@
 angular
   .module('app', [
+    'ngMap',
     'ui.router',
     'ui.grid',
     'ui.grid.pagination',
